@@ -59,6 +59,12 @@ companies:
   url: https://bugcrowd.com/shoppingcart
   contact: https://bugcrowd.com/shoppingcart
   rewards: []
+- company: 1win
+  url: https://1win.com
+  handle: 1win_com
+  contact: https://hackerone.com/1win_com
+  rewards:
+  - '*bounty'
 - company: 20 Minuten
   url: https://bugcrowd.com/engagements/twentyminuten
   contact: https://bugcrowd.com/engagements/twentyminuten
@@ -976,6 +982,11 @@ companies:
   contact: https://bugcrowd.com/engagements/atlassianapps
   rewards:
   - '*bounty'
+- company: Atolls Vulnerability Disclosure Program (VDP)
+  url: https://www.intigriti.com/programs/atolls/atollsvdp/detail
+  handle: atollsvdp
+  contact: https://www.intigriti.com/programs/atolls/atollsvdp/detail
+  rewards: []
 - company: Audere
   url: https://auderenow.org/security
   contact: mailto:security@auderenow.org
@@ -2721,6 +2732,12 @@ companies:
 - company: CoinJar
   url: https://www.coinjar.com/bounty
   contact: mailto:security@coinjar.com
+  rewards:
+  - '*bounty'
+- company: CoinMate.io
+  url: https://coinmate.io
+  handle: coinmate
+  contact: https://hackerone.com/coinmate
   rewards:
   - '*bounty'
 - company: Coinpayments
@@ -6450,6 +6467,12 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: Invision Power Services, Inc.
+  url: http://www.invisioncommunity.com
+  handle: ips
+  contact: https://hackerone.com/ips
+  rewards:
+  - '*bounty'
 - company: ION Group
   url: https://iongroup.com/
   handle: ion
@@ -7395,6 +7418,12 @@ companies:
   url: https://lumindigital.com/security/
   contact: mailto:security-disclosure@lumindigital.com
   rewards: []
+- company: Luminor
+  url: http://www.luminor.lv
+  handle: luminor
+  contact: https://hackerone.com/luminor
+  rewards:
+  - '*swag'
 - company: Lumosity
   url: https://www.lookout.com/legal/responsible-disclosure
   contact: mailto:security@lookout.com
@@ -9306,6 +9335,11 @@ companies:
   url: https://www.oshkoshcorp.com/contact/Contacts~CyberSecurity.html
   contact: mailto:sirt@oshkoshcorp.com
   rewards: []
+- company: OSL Managed Public Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/osl-mbb-og1
+  contact: https://bugcrowd.com/engagements/bitgo-mbb-og-public
+  rewards:
+  - '*bounty'
 - company: OSLO BORS
   url: https://www.oslobors.no/ob_eng/Oslo-Boers/About-Oslo-Boers/Responsible-Disclosure
   contact: mailto:security@oslobors.no
@@ -11198,6 +11232,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: SecureFlag Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/secureflag-mbb-market
+  contact: https://bugcrowd.com/engagements/secureflag-mbb-market
+  rewards:
+  - '*bounty'
 - company: securepractice.co
   url: https://securepractice.co/support
   contact: mailto:security@securepractice.co
@@ -11789,6 +11828,11 @@ companies:
   url: https://sorare.com
   handle: sorare
   contact: https://hackerone.com/sorare
+  rewards:
+  - '*bounty'
+- company: Soteri Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/soteri
+  contact: https://bugcrowd.com/engagements/soteri
   rewards:
   - '*bounty'
 - company: SoundCloud
